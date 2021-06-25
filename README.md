@@ -14,6 +14,10 @@ For example:
     
 1 tCO<sub>2</sub>e + (0.2 tCO<sub>2</sub>e * 0.5) + (2 tCO<sub>2</sub>e * 0.1) = 1.3 tCO<sub>2</sub>e
 
+### 2. Code review
+
+Imagine that the app `authn` has just been sent to you for review. What points would you raise?
+
 ## How to run:
 
 Prerequisites: 
